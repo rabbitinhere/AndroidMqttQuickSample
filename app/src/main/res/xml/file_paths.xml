@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    <!-- external-path对应的是内置的sdcard目录/sdcard/，path="Download"是子目录，完整目录为 /sdcard/Download。-->
+    <external-path name="." path="Download" />
+</paths>
